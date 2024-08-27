@@ -13,3 +13,6 @@ if input_keyword == 1:
 
 else:
 	print("exit")
+
+
+print("This was a cal project")
