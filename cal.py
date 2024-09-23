@@ -17,7 +17,7 @@ def cal():
     a = int(input("First no: "))
     b = int(input("second no: "))
     c = input("operation to be done: ")
-    d = cal(a,b,c)
+    d = cal_op(a,b,c)
 
 
     print(d)

@@ -1,6 +1,6 @@
 # app file
 
-import cal
+from cal import cal
 
 
 
